@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Redux and Redux Saga**
 
 - 💬 Ask me about **ReactJs, Python**
 
