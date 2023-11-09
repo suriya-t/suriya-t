@@ -20,5 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suriya-t&show_icons=true&theme=dark&locale=en&layout=compact" alt="suriya-t" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suriya-t&show_icons=true&theme=dark&locale=en" alt="suriya-t" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suriya-t&theme=dark" alt="suriya-t" /></p>
